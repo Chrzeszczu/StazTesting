@@ -14,9 +14,9 @@
 - coverlet.collector\3.1.2\ <br/>
 - dotnetseleniumextras.pageobjects.core\4.3.0\ <br/>
 <br/>
+
 # README
-## Tests are performed in ** 1920x1080 ** resolution with the size of texts and icons <br/>
-## set to ** 150% ** (recommended for the testing machine). Tests should also work on txt and icons size set to 100% <br/>
+## Tests are performed in ** 1920x1080 ** resolution with the size of texts and icons <br/> set to ** 150% ** (recommended for the testing machine). Tests should also work on txt and icons size set to 100% <br/>
 ## Test environment - Selenium.WebDriver.ChromeDriver 103.0.5060.5300 <br/>
 ### Used .nuget packages: <br/>
 - selenium.webdriver\4.3.0\ <br/>
