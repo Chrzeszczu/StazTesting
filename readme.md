@@ -1,4 +1,4 @@
-#README <br/>
+#README# <br/>
 ##Testy są wykonywane w rozdzielczości **1920x1080** przy wielkości tekstów i ikon <br/>
 ##ustawionych na **150%** (rekomendowane dla maszyny testującej). Testy również powinny działać dla tekstu i ikon ustawionych dla rozmiaru 100% <br/>
 ##Środowisko testujące - Selenium.WebDriver.ChromeDriver 103.0.5060.5300 <br/>
